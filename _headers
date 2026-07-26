@@ -1,0 +1,17 @@
+/sw.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/index.html
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/js/app.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/css/style.css
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/data/spots.json
+  Cache-Control: no-cache, no-store, must-revalidate

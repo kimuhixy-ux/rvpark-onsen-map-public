@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<title>RVパーク・温泉マップ</title>
+<meta name="description" content="全国のRVパークと温泉を1枚の地図で探せるPWA">
+
+<!-- PWA -->
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1b3a4b">
+
+<!-- iOS向け -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="RV温泉マップ">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="vendor/markercluster/MarkerCluster.css">
+<link rel="stylesheet" href="vendor/markercluster/MarkerCluster.Default.css">
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div id="map"></div>
+
+<button id="locate-btn" title="現在地に移動" aria-label="現在地に移動">📍</button>
+
+<div id="search-panel" class="hidden">
+  <input type="text" id="search-input" placeholder="施設名で検索…" autocomplete="off">
+  <ul id="search-results"></ul>
+</div>
+
+<div id="filter-bar">
+  <div class="filter-row">
+    <button class="toggle-btn active" id="toggle-rvpark" data-type="rvpark">🚐 RVパーク</button>
+    <button class="toggle-btn active" id="toggle-autocamp" data-type="autocamp">⛺ オートキャンプ</button>
+    <button class="toggle-btn active" id="toggle-onsen" data-type="onsen">♨ 温泉</button>
+    <button class="toggle-btn active" id="toggle-michinoeki" data-type="michinoeki">🅿️ 道の駅</button>
+    <button class="toggle-btn active" id="toggle-udon" data-type="udon">🍜 うどん</button>
+    <button id="search-toggle-btn" aria-label="検索">🔍</button>
+  </div>
+  <div class="filter-row" id="rating-filter">
+    <button class="rating-btn active" data-min-rating="0">すべて</button>
+    <button class="rating-btn" data-min-rating="3.5">★3.5以上</button>
+    <button class="rating-btn" data-min-rating="4.0">★4.0以上</button>
+  </div>
+  <div class="filter-row" id="udon-parking-filter">
+    <button class="toggle-btn" id="udon-parking-btn">🅿️ 広い駐車場のうどん屋のみ</button>
+  </div>
+</div>
+
+<!-- Leaflet JS -->
+<script src="vendor/leaflet/leaflet.js"></script>
+<script src="vendor/markercluster/leaflet.markercluster.js"></script>
+
+<script src="js/app.js"></script>
+
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').then((reg) => {
+      // register()だけだと前回チェックから24時間以内は更新確認が走らないことがあるため、
+      // ページを開くたびに明示的にupdate()を呼んで新しいsw.jsの有無を即確認する。
+      reg.update();
+    }).catch(console.error);
+  });
+
+  // 新しいService Workerが有効化された(=CACHE_NAMEが上がった)ら、
+  // 表示中のページを1回だけ自動リロードして新しいキャッシュの内容を反映する。
+  let refreshingAfterUpdate = false;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (refreshingAfterUpdate) return;
+    refreshingAfterUpdate = true;
+    window.location.reload();
+  });
+}
+</script>
+
+<nav class="public-footer" aria-label="サイト情報">
+  <a href="about.html">このサイトについて</a>
+  <a href="privacy.html">プライバシーポリシー</a>
+</nav>
+<script src="js/config.js"></script>
+<script src="js/donate.js"></script>
+<script src="js/ads.js"></script>
+
+</body>
+</html>
