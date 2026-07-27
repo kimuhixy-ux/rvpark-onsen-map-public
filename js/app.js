@@ -15,6 +15,7 @@
     udon: { emoji: "🍜", color: "#d81b60", label: "🍜 うどん" },
   };
   const TYPES = Object.keys(TYPE_META);
+  const requestedSpotId = new URLSearchParams(location.search).get("id");
 
   const state = {
     spots: [],
@@ -253,6 +254,7 @@
     }
 
     rebuildClusters();
+    if (requestedSpotId) focusSpot(requestedSpotId);
   }
 
   // フィルタUI: 種別トグル
@@ -333,7 +335,7 @@
   });
 
   // 初期表示: 現在地が取得できれば現在地中心、できなければ日本全体
-  if (navigator.geolocation) {
+  if (navigator.geolocation && !requestedSpotId) {
     navigator.geolocation.getCurrentPosition(
       (pos) => {
         map.setView([pos.coords.latitude, pos.coords.longitude], GEOLOCATION_ZOOM);
