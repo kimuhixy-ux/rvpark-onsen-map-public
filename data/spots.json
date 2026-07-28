@@ -99021,6 +99021,30 @@
       "rating_count": null,
       "website": "https://osaka-info.jp/spot/shionoyu-onsen/",
       "phone": null
+    },
+    {
+      "id": "manual_onsen_1119",
+      "type": "onsen",
+      "name": "入之波温泉 山鳩湯",
+      "lat": 34.262163,
+      "lng": 136.04063,
+      "pref": "奈良県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://yamatoji.nara-kankou.or.jp/08onsen/01onsen/04south_area/yamabatoyu/",
+      "phone": "0746-54-0262"
+    },
+    {
+      "id": "manual_onsen_1120",
+      "type": "onsen",
+      "name": "大塔温泉 星乃湯",
+      "lat": 34.212313,
+      "lng": 135.7319,
+      "pref": "奈良県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://yamatoji.nara-kankou.or.jp/08onsen/01onsen/04south_area/otoonsenhoshinoyu/",
+      "phone": "0747-35-0321"
     }
   ]
 }
