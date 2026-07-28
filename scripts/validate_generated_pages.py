@@ -12,7 +12,7 @@ from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
-EXPECTED = 7105
+EXPECTED = 7115
 
 
 def fail(message: str) -> None:

@@ -85773,6 +85773,16 @@
       "rating_count": null,
       "website": "https://www.kyoto-kankou.or.jp/info_search/8224",
       "phone": "0772-62-5771"
-    }
+    },
+    {"id":"manual_onsen_0015","type":"onsen","name":"游泉志だて【志戸平温泉】","lat":39.41741,"lng":141.011513,"pref":"岩手県","rating":null,"rating_count":null,"website":"https://iwatetabi.jp/spots/122227/","phone":null},
+    {"id":"manual_onsen_0016","type":"onsen","name":"花巻温泉","lat":39.452398,"lng":141.069573,"pref":"岩手県","rating":null,"rating_count":null,"website":"https://iwatetabi.jp/spots/72215/","phone":null},
+    {"id":"manual_onsen_0017","type":"onsen","name":"ユートランド姫神【姫神温泉】","lat":39.859221,"lng":141.113023,"pref":"岩手県","rating":null,"rating_count":null,"website":"https://iwatetabi.jp/spots/71648/","phone":null},
+    {"id":"manual_onsen_0018","type":"onsen","name":"山の神温泉 優香苑","lat":39.452358,"lng":141.004575,"pref":"岩手県","rating":null,"rating_count":null,"website":"https://iwatetabi.jp/spots/71466/","phone":"0198-29-4126"},
+    {"id":"manual_onsen_0019","type":"onsen","name":"永岡温泉 夢の湯","lat":39.173527,"lng":141.02687,"pref":"岩手県","rating":null,"rating_count":null,"website":"https://iwatetabi.jp/spots/6053/","phone":"0197-44-3420"},
+    {"id":"manual_onsen_0020","type":"onsen","name":"大沢温泉","lat":39.43568,"lng":141.01617,"pref":"岩手県","rating":null,"rating_count":null,"website":"https://iwatetabi.jp/spots/6049/","phone":null},
+    {"id":"manual_onsen_0021","type":"onsen","name":"金田一温泉郷","lat":40.321078,"lng":141.320932,"pref":"岩手県","rating":null,"rating_count":null,"website":"https://iwatetabi.jp/spots/6068/","phone":null},
+    {"id":"manual_onsen_0022","type":"onsen","name":"月岡温泉","lat":37.879617,"lng":139.312801,"pref":"新潟県","rating":null,"rating_count":null,"website":"https://niigata-kankou.or.jp/spot/11319","phone":null},
+    {"id":"manual_onsen_0023","type":"onsen","name":"ASOBIYUKU京都るり渓温泉","lat":35.032919,"lng":135.398059,"pref":"京都府","rating":null,"rating_count":null,"website":"https://kyoto-kankou.or.jp/info_search/7775","phone":null},
+    {"id":"manual_onsen_0024","type":"onsen","name":"本谷温泉館","lat":33.936282,"lng":133.027406,"pref":"愛媛県","rating":null,"rating_count":null,"website":"https://iyokannet.jp/spot/168","phone":null}
   ]
 }
