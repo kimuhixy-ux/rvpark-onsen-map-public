@@ -98925,6 +98925,102 @@
       "rating_count": null,
       "website": "https://www.kyoto-kankou.or.jp/info_search/1822",
       "phone": null
+    },
+    {
+      "id": "manual_onsen_1111",
+      "type": "onsen",
+      "name": "上方温泉　一休",
+      "lat": 34.681582,
+      "lng": 135.434358,
+      "pref": "大阪府",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://osaka-info.jp/spot/kamigata-onsen-ikkyu/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1112",
+      "type": "onsen",
+      "name": "かつらぎ温泉（ワールド牧場 一乃湯）",
+      "lat": 34.478224,
+      "lng": 135.641256,
+      "pref": "大阪府",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://osaka-info.jp/spot/katsuragi-hot-spring/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1113",
+      "type": "onsen",
+      "name": "天見温泉",
+      "lat": 34.39742,
+      "lng": 135.594498,
+      "pref": "大阪府",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://osaka-info.jp/spot/amami-onsen/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1114",
+      "type": "onsen",
+      "name": "奥水間温泉",
+      "lat": 34.375036,
+      "lng": 135.403254,
+      "pref": "大阪府",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://osaka-info.jp/spot/okumizuma-onsen/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1115",
+      "type": "onsen",
+      "name": "天然温泉 憩の宿 河内長野荘",
+      "lat": 34.449776,
+      "lng": 135.574291,
+      "pref": "大阪府",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://osaka-info.jp/spot/nagano-onsen/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1116",
+      "type": "onsen",
+      "name": "天然温泉　富田林嶽山温泉2号泉",
+      "lat": 34.465076,
+      "lng": 135.595625,
+      "pref": "大阪府",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://osaka-info.jp/spot/tondabayashi-dakeyama-hot-spring/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1117",
+      "type": "onsen",
+      "name": "摂津峡花の里温泉（山水館）",
+      "lat": 34.87891,
+      "lng": 135.58628,
+      "pref": "大阪府",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://osaka-info.jp/spot/settsukyo-hananosato-onsen/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1118",
+      "type": "onsen",
+      "name": "汐の湯温泉",
+      "lat": 34.96122,
+      "lng": 135.399,
+      "pref": "大阪府",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://osaka-info.jp/spot/shionoyu-onsen/",
+      "phone": null
     }
   ]
 }
