@@ -98349,6 +98349,78 @@
       "rating_count": null,
       "website": "https://www.kankou-gifu.jp/spot/detail_4857.html",
       "phone": null
+    },
+    {
+      "id": "manual_onsen_1063",
+      "type": "onsen",
+      "name": "飛島村ふれあい温泉",
+      "lat": 35.078631,
+      "lng": 136.802661,
+      "pref": "愛知県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://aichinow.pref.aichi.jp/spots/detail/3060/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1064",
+      "type": "onsen",
+      "name": "坂井温泉",
+      "lat": 34.820306,
+      "lng": 136.864007,
+      "pref": "愛知県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://aichinow.pref.aichi.jp/spots/detail/3411/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1065",
+      "type": "onsen",
+      "name": "あいち健康プラザ（あいち健康の森健康科学総合センター）",
+      "lat": 34.993831,
+      "lng": 136.949442,
+      "pref": "愛知県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://aichinow.pref.aichi.jp/spots/detail/1003/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1066",
+      "type": "onsen",
+      "name": "一畑山薬師寺 御霊泉",
+      "lat": 34.916945,
+      "lng": 137.228954,
+      "pref": "愛知県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://aichinow.pref.aichi.jp/spots/detail/1571/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1067",
+      "type": "onsen",
+      "name": "猿投温泉",
+      "lat": 35.183173,
+      "lng": 137.151648,
+      "pref": "愛知県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://aichinow.pref.aichi.jp/spots/detail/211/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1068",
+      "type": "onsen",
+      "name": "天然温泉　本宮の湯",
+      "lat": 34.878323,
+      "lng": 137.426313,
+      "pref": "愛知県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://aichinow.pref.aichi.jp/spots/detail/2475/",
+      "phone": null
     }
   ]
 }
