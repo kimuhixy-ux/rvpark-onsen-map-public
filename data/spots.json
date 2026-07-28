@@ -98577,6 +98577,114 @@
       "rating_count": null,
       "website": "https://www.kankomie.or.jp/spot/1131",
       "phone": null
+    },
+    {
+      "id": "manual_onsen_1082",
+      "type": "onsen",
+      "name": "須賀谷温泉",
+      "lat": 35.456607,
+      "lng": 136.282257,
+      "pref": "滋賀県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.biwako-visitors.jp/spot/detail/352/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1083",
+      "type": "onsen",
+      "name": "信楽たぬき温泉　小川亭",
+      "lat": 34.87747,
+      "lng": 136.052747,
+      "pref": "滋賀県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.biwako-visitors.jp/spot/detail/315/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1084",
+      "type": "onsen",
+      "name": "甲賀流忍びの宿  宮乃温泉",
+      "lat": 34.925772,
+      "lng": 136.155986,
+      "pref": "滋賀県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.biwako-visitors.jp/spot/detail/319/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1085",
+      "type": "onsen",
+      "name": "彦根キャッスル　リゾート＆スパ",
+      "lat": 35.273904,
+      "lng": 136.25699,
+      "pref": "滋賀県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.biwako-visitors.jp/spot/detail/334/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1086",
+      "type": "onsen",
+      "name": "宝船温泉湯元ことぶき",
+      "lat": 35.305183,
+      "lng": 136.03341,
+      "pref": "滋賀県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.biwako-visitors.jp/spot/detail/16203/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1087",
+      "type": "onsen",
+      "name": "南郷温泉　二葉屋",
+      "lat": 34.936156,
+      "lng": 135.909951,
+      "pref": "滋賀県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.biwako-visitors.jp/spot/detail/288/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1088",
+      "type": "onsen",
+      "name": "塩野温泉",
+      "lat": 34.931411,
+      "lng": 136.153514,
+      "pref": "滋賀県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.biwako-visitors.jp/spot/detail/7182/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1089",
+      "type": "onsen",
+      "name": "尾上温泉紅鮎",
+      "lat": 35.448106,
+      "lng": 136.189932,
+      "pref": "滋賀県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.biwako-visitors.jp/spot/detail/358/",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1090",
+      "type": "onsen",
+      "name": "マキノ白谷温泉八王子荘",
+      "lat": 35.501875,
+      "lng": 136.042164,
+      "pref": "滋賀県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.biwako-visitors.jp/spot/detail/8573/",
+      "phone": null
     }
   ]
 }
