@@ -94425,6 +94425,78 @@
       "rating_count": null,
       "website": "https://gunma-kanko.jp/spots/1382",
       "phone": null
+    },
+    {
+      "id": "manual_onsen_0736",
+      "type": "onsen",
+      "name": "道の駅　大滝温泉",
+      "lat": 35.950162,
+      "lng": 138.93796,
+      "pref": "埼玉県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://chocotabi-saitama.jp/spot/52794",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0737",
+      "type": "onsen",
+      "name": "杉戸天然温泉 雅楽の湯（うたのゆ）",
+      "lat": 36.038913,
+      "lng": 139.724692,
+      "pref": "埼玉県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://chocotabi-saitama.jp/spot/19269",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0738",
+      "type": "onsen",
+      "name": "中国割烹旅館 掬水亭",
+      "lat": 35.769495,
+      "lng": 139.439274,
+      "pref": "埼玉県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://chocotabi-saitama.jp/spot/19195",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0739",
+      "type": "onsen",
+      "name": "里山 VILLAGE 四季彩館",
+      "lat": 36.004585,
+      "lng": 139.261921,
+      "pref": "埼玉県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://chocotabi-saitama.jp/spot/18929",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0740",
+      "type": "onsen",
+      "name": "いこいの村 ヘリテイジ美の山",
+      "lat": 36.065399,
+      "lng": 139.114779,
+      "pref": "埼玉県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://chocotabi-saitama.jp/spot/9216",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0741",
+      "type": "onsen",
+      "name": "アクアイグニス武蔵野温泉",
+      "lat": 35.865408,
+      "lng": 139.859929,
+      "pref": "埼玉県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://chocotabi-saitama.jp/spot/40866",
+      "phone": null
     }
   ]
 }
