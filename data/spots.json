@@ -109593,6 +109593,90 @@
       "rating_count": null,
       "website": "https://www.kagoshima-kankou.com/guide/30077",
       "phone": null
+    },
+    {
+      "id": "manual_onsen_2000",
+      "type": "onsen",
+      "name": "三重城温泉　島人の湯（ロワジールホテル 那覇2階）",
+      "lat": 26.213745,
+      "lng": 127.665878,
+      "pref": "沖縄県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.okinawastory.jp/spot/10017102",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_2001",
+      "type": "onsen",
+      "name": "天然温泉さしきの猿人の湯",
+      "lat": 26.16474,
+      "lng": 127.770683,
+      "pref": "沖縄県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.okinawastory.jp/spot/1252",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_2002",
+      "type": "onsen",
+      "name": "ジュラ紀温泉　美ら海の湯",
+      "lat": 26.698748,
+      "lng": 127.879272,
+      "pref": "沖縄県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.okinawastory.jp/spot/600008334",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_2003",
+      "type": "onsen",
+      "name": "三重城温泉　海人の湯（ロワジール スパタワー 那覇 2階）",
+      "lat": 26.213745,
+      "lng": 127.665878,
+      "pref": "沖縄県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.okinawastory.jp/spot/600010938",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_2004",
+      "type": "onsen",
+      "name": "サウナ付スパ 浜の湯（リザンシーパークホテル谷茶ベイ）",
+      "lat": 26.46324,
+      "lng": 127.816689,
+      "pref": "沖縄県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.okinawastory.jp/spot/600011735",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_2005",
+      "type": "onsen",
+      "name": "ザ・テラスクラブ アット ブセナ",
+      "lat": 26.537228,
+      "lng": 127.936607,
+      "pref": "沖縄県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.okinawastory.jp/spot/1409",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_2006",
+      "type": "onsen",
+      "name": "暮らしの発酵 SPA",
+      "lat": 26.306772,
+      "lng": 127.795624,
+      "pref": "沖縄県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.okinawastory.jp/spot/600002613",
+      "phone": null
     }
   ]
 }
