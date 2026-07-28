@@ -99189,6 +99189,90 @@
       "rating_count": null,
       "website": "https://www.wakayama-kanko.or.jp/spots/detail_3257.html",
       "phone": null
+    },
+    {
+      "id": "manual_onsen_1133",
+      "type": "onsen",
+      "name": "大山　火の神岳温泉　豪円湯院",
+      "lat": 35.393178,
+      "lng": 133.530428,
+      "pref": "鳥取県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.tottori-guide.jp/tourism/tour/view/982",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1134",
+      "type": "onsen",
+      "name": "貝殻節の里 旅風庵",
+      "lat": 35.510694,
+      "lng": 134.051438,
+      "pref": "鳥取県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.tottori-guide.jp/tourism/tour/view/67",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1135",
+      "type": "onsen",
+      "name": "温泉館ホットピア鹿野",
+      "lat": 35.464522,
+      "lng": 134.056984,
+      "pref": "鳥取県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.tottori-guide.jp/tourism/tour/view/35",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1136",
+      "type": "onsen",
+      "name": "なかやま温泉「ゆーゆー倶楽部naspal」",
+      "lat": 35.514605,
+      "lng": 133.579318,
+      "pref": "鳥取県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.tottori-guide.jp/tourism/tour/view/224",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1137",
+      "type": "onsen",
+      "name": "三朝温泉河原風呂",
+      "lat": 35.410927,
+      "lng": 133.891673,
+      "pref": "鳥取県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.tottori-guide.jp/tourism/tour/view/178",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1138",
+      "type": "onsen",
+      "name": "岸本温泉「ゆうあいパル」",
+      "lat": 35.387447,
+      "lng": 133.396035,
+      "pref": "鳥取県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.tottori-guide.jp/tourism/tour/view/221",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1139",
+      "type": "onsen",
+      "name": "せきがね湯命館",
+      "lat": 35.364334,
+      "lng": 133.760085,
+      "pref": "鳥取県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.tottori-guide.jp/tourism/tour/view/181",
+      "phone": null
     }
   ]
 }
