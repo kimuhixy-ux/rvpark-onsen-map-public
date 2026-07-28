@@ -87741,6 +87741,78 @@
       "rating_count": null,
       "website": "https://aomori-tourism.com/spot/detail_4805.html",
       "phone": null
+    },
+    {
+      "id": "manual_onsen_0179",
+      "type": "onsen",
+      "name": "太古天泉 松島温泉",
+      "lat": 38.371966,
+      "lng": 141.069941,
+      "pref": "宮城県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://miyagi-kankou.or.jp/theme/detail.php?id=20640",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0180",
+      "type": "onsen",
+      "name": "遠刈田温泉",
+      "lat": 38.123849,
+      "lng": 140.577155,
+      "pref": "宮城県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://miyagi-kankou.or.jp/theme/detail.php?id=20614",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0181",
+      "type": "onsen",
+      "name": "峩々温泉",
+      "lat": 38.143877,
+      "lng": 140.50021,
+      "pref": "宮城県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://miyagi-kankou.or.jp/theme/detail.php?id=20616",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0182",
+      "type": "onsen",
+      "name": "作並温泉",
+      "lat": 38.317744,
+      "lng": 140.632648,
+      "pref": "宮城県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://miyagi-kankou.or.jp/theme/detail.php?id=20632",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0183",
+      "type": "onsen",
+      "name": "鳴子温泉",
+      "lat": 38.743124,
+      "lng": 140.716477,
+      "pref": "宮城県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://miyagi-kankou.or.jp/theme/detail.php?id=20693",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0184",
+      "type": "onsen",
+      "name": "気仙沼温泉",
+      "lat": 38.904193,
+      "lng": 141.579527,
+      "pref": "宮城県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://miyagi-kankou.or.jp/theme/detail.php?id=20702",
+      "phone": null
     }
   ]
 }
