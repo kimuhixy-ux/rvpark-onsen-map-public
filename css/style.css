@@ -51,6 +51,36 @@ html, body {
   z-index: 1;
 }
 
+/* サイトの特徴 */
+.site-intro {
+  position: fixed;
+  top: calc(8px + env(safe-area-inset-top));
+  left: 8px;
+  right: 8px;
+  z-index: 400;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  max-width: 620px;
+  padding: 8px 12px;
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.93);
+  color: #263238;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.22);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.site-intro strong {
+  color: #1b3a4b;
+  font-size: 14px;
+}
+
+.site-intro small {
+  color: #68757b;
+  font-size: 10px;
+}
+
 /* 現在地ボタン */
 #locate-btn {
   position: fixed;
