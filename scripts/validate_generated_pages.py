@@ -12,9 +12,6 @@ from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
-EXPECTED = 7115
-
-
 def fail(message: str) -> None:
     print(f"ERROR: {message}", file=sys.stderr)
     raise SystemExit(1)
@@ -35,9 +32,10 @@ def validate_links(path: Path, text: str) -> None:
 def main() -> None:
     payload = json.loads((ROOT / "data/spots.json").read_text(encoding="utf-8"))
     records = payload["spots"]
+    expected = len(records)
     ja = sorted((ROOT / "items").glob("*/index.html"))
     en = sorted((ROOT / "en/items").glob("*/index.html"))
-    if len(ja) != EXPECTED or len(en) != EXPECTED:
+    if len(ja) != expected or len(en) != expected:
         fail(f"page count ja={len(ja)} en={len(en)}")
     if [path.parent.name for path in ja] != [path.parent.name for path in en]:
         fail("locale slug sets differ")
@@ -78,7 +76,7 @@ def main() -> None:
 
     for path in (ROOT / "items/index.html", ROOT / "en/items/index.html"):
         text = path.read_text(encoding="utf-8")
-        if text.count('<li><a href="') != EXPECTED:
+        if text.count('<li><a href="') != expected:
             fail(f"{path.relative_to(ROOT)} index count mismatch")
         if "OpenStreetMap contributors" not in text or "ODbL" not in text:
             fail(f"{path.relative_to(ROOT)} lacks OSM attribution")
@@ -87,7 +85,7 @@ def main() -> None:
     root = ET.parse(ROOT / "sitemap.xml").getroot()
     ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
     urls = [node.text for node in root.findall("s:url/s:loc", ns)]
-    if len(urls) != EXPECTED * 2 + 6 or len(urls) != len(set(urls)):
+    if len(urls) != expected * 2 + 6 or len(urls) != len(set(urls)):
         fail(f"invalid sitemap URL set: {len(urls)}")
     if "https://kimuhixy.com/rvpark-onsen-map/sitemap.xml" not in (ROOT / "robots.txt").read_text(encoding="utf-8"):
         fail("robots.txt sitemap missing")
