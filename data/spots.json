@@ -94497,6 +94497,54 @@
       "rating_count": null,
       "website": "https://chocotabi-saitama.jp/spot/40866",
       "phone": null
+    },
+    {
+      "id": "manual_onsen_0742",
+      "type": "onsen",
+      "name": "龍宮城スパホテル三日月（木更津三日月温泉）",
+      "lat": 35.420882,
+      "lng": 139.897597,
+      "pref": "千葉県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://maruchiba.jp/spot/detail_12553.html",
+      "phone": "0438-41-8111"
+    },
+    {
+      "id": "manual_onsen_0743",
+      "type": "onsen",
+      "name": "道の駅　むつざわつどいの郷",
+      "lat": 35.353599,
+      "lng": 140.302749,
+      "pref": "千葉県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://maruchiba.jp/spot/detail_10304.html",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0744",
+      "type": "onsen",
+      "name": "Sport & Do Resort リソルの森",
+      "lat": 35.478323,
+      "lng": 140.244002,
+      "pref": "千葉県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://maruchiba.jp/spot/detail_10600.html",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0745",
+      "type": "onsen",
+      "name": "とれとれ市場旬の蔵 房総四季の蔵・旬の蔵直売所",
+      "lat": 35.314906,
+      "lng": 139.944545,
+      "pref": "千葉県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://maruchiba.jp/spot/detail_10551.html",
+      "phone": null
     }
   ]
 }
