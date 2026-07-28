@@ -108333,6 +108333,138 @@
       "rating_count": null,
       "website": "https://www.visit-oita.jp/spots/detail/6152",
       "phone": null
+    },
+    {
+      "id": "manual_onsen_1895",
+      "type": "onsen",
+      "name": "観音さくらの里",
+      "lat": 31.825168,
+      "lng": 131.137414,
+      "pref": "宮崎県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.kanko-miyazaki.jp/spot/1145",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1896",
+      "type": "onsen",
+      "name": "西米良温泉カリコボーズの湯ゆた～と",
+      "lat": 32.223497,
+      "lng": 131.163215,
+      "pref": "宮崎県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.kanko-miyazaki.jp/spot/1143",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1897",
+      "type": "onsen",
+      "name": "美郷レイクランド（石峠レイクランド）",
+      "lat": 32.432576,
+      "lng": 131.467729,
+      "pref": "宮崎県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.kanko-miyazaki.jp/spot/1134",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1898",
+      "type": "onsen",
+      "name": "フェニックス・シーガイア・リゾート",
+      "lat": 31.974662,
+      "lng": 131.472787,
+      "pref": "宮崎県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.kanko-miyazaki.jp/spot/1208",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1899",
+      "type": "onsen",
+      "name": "すきむらんど",
+      "lat": 32.067532,
+      "lng": 131.086933,
+      "pref": "宮崎県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.kanko-miyazaki.jp/spot/1059",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1900",
+      "type": "onsen",
+      "name": "えびの高原ホテル【旧名】ホテル ピコ ラナイ えびの高原",
+      "lat": 31.945821,
+      "lng": 130.840925,
+      "pref": "宮崎県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.kanko-miyazaki.jp/spot/1325",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1901",
+      "type": "onsen",
+      "name": "かどがわ温泉　心の杜",
+      "lat": 32.485719,
+      "lng": 131.675755,
+      "pref": "宮崎県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.kanko-miyazaki.jp/spot/2294",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1902",
+      "type": "onsen",
+      "name": "サンチェリーきたごう",
+      "lat": 31.657153,
+      "lng": 131.384421,
+      "pref": "宮崎県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.kanko-miyazaki.jp/spot/2385",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1903",
+      "type": "onsen",
+      "name": "祝子川温泉",
+      "lat": 32.72991,
+      "lng": 131.561827,
+      "pref": "宮崎県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.kanko-miyazaki.jp/spot/1918",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1904",
+      "type": "onsen",
+      "name": "京町観光ホテル",
+      "lat": 32.049182,
+      "lng": 130.766858,
+      "pref": "宮崎県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.kanko-miyazaki.jp/spot/2601",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_1905",
+      "type": "onsen",
+      "name": "加久藤温泉",
+      "lat": 32.021046,
+      "lng": 130.815674,
+      "pref": "宮崎県",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.kanko-miyazaki.jp/spot/2602",
+      "phone": null
     }
   ]
 }
