@@ -94545,6 +94545,78 @@
       "rating_count": null,
       "website": "https://maruchiba.jp/spot/detail_10551.html",
       "phone": null
+    },
+    {
+      "id": "manual_onsen_0746",
+      "type": "onsen",
+      "name": "有明ガーデン",
+      "lat": 35.638297,
+      "lng": 139.792429,
+      "pref": "東京都",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.gotokyo.org/jp/spot/1853/index.html",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0747",
+      "type": "onsen",
+      "name": "羽田エアポートガーデン",
+      "lat": 35.543854,
+      "lng": 139.764679,
+      "pref": "東京都",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.gotokyo.org/jp/spot/1878/index.html",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0748",
+      "type": "onsen",
+      "name": "豊洲 千客万来",
+      "lat": 35.643154,
+      "lng": 139.780136,
+      "pref": "東京都",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.gotokyo.org/jp/spot/1858/index.html",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0749",
+      "type": "onsen",
+      "name": "ゆ～シティー蒲田",
+      "lat": 35.565088,
+      "lng": 139.718015,
+      "pref": "東京都",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.gotokyo.org/jp/spot/982/index.html",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0750",
+      "type": "onsen",
+      "name": "昭島温泉 湯楽の里",
+      "lat": 35.721625,
+      "lng": 139.355195,
+      "pref": "東京都",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.gotokyo.org/jp/spot/699/index.html",
+      "phone": null
+    },
+    {
+      "id": "manual_onsen_0751",
+      "type": "onsen",
+      "name": "天然温泉 nu land さがみゆ",
+      "lat": 35.552384,
+      "lng": 139.714761,
+      "pref": "東京都",
+      "rating": null,
+      "rating_count": null,
+      "website": "https://www.gotokyo.org/jp/spot/1254/index.html",
+      "phone": null
     }
   ]
 }
